@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/emacs-dragon.png" alt="Emacs Dragon Logo"><br>
+  <img src="assets/emacs-dragon.png" alt="Emacs Dragon Logo" height="240px"><br>
   <sub>神威天龙，紫气东来，旭日东升。</sub>
 </p>
 
