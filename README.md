@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/emacs-dragon.png" alt="Emacs Dragon Logo" height="240px"><br>
+  <img src="Emacs.iconset/icon_256x256.png" alt="Emacs Dragon Logo"><br>
   <sub>神威天龙，紫气东来，旭日东升。</sub>
 </p>
 
@@ -9,7 +9,10 @@ A new Emacs icon combines Emacs logo's background and the dragon in [Emac-China]
 
 **Pull requests are welcome! The details in the logo needs to be improved**, because I'm not a UI designer and not familiar with svg editing at all.
 
-**SVG, PNG, ICO and all the materials are in the assets folder.**
+## Credits
+- [Boxy SVG](https://boxy-svg.com/app) is used to edit the svg files in materials.
+- [Emacs logo](https://github.com/emacs-mirror/emacs/blob/master/etc/images/icons/hicolor/scalable/apps/emacs.svg)
+- [Emacs China Logo](https://raw.githubusercontent.com/emacs-china/emacs-china.github.io/master/assets/dragon2.svg)
 
-# LICENSE
+## LICENSE
 GPL-3
