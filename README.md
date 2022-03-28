@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AppIcons/Emacs.iconset/icon_256x256.png" alt="Emacs Dragon Logo"><br>
+  <img src="AppIcons/Emacs.iconset/icon_512x512.png" alt="Emacs Dragon Logo" height="256px"><br>
   <sub>神威天龙，紫气东来，旭日东升。</sub>
 </p>
 
