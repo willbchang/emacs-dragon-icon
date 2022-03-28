@@ -17,4 +17,4 @@ iconutil -c icns AppIcons/emacs-dragon-icon.iconset
 
 
 # Generate .ico
-ffmpeg -i AppIcons/emacs-dragon-icon.iconset/icon_256x256.png AppIcons/Emacs.ico
+ffmpeg -i AppIcons/emacs-dragon-icon.iconset/icon_256x256.png AppIcons/emacs-dragon-icon.ico
