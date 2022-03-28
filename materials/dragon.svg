@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg width="204.92754" height="204.92754" id="svg2" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
   <title id="title2997">emacs-china</title>
-  <g id="layer2" style="display:inline" transform="translate(-288.49638,-315.42377)">
+  <g id="layer2" style="display:inline" transform="matrix(2.346431, 0, 0, 2.346431, -671.934143, -710.107971)">
     <path style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="" id="path5236"/>
     <path style="fill:#0909c6;fill-opacity:1;stroke:none" d="" id="path5794"/>
     <path style="fill:#0909c6;fill-opacity:1;stroke:none" d="" id="path5804"/>
