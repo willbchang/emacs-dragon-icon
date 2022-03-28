@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <filter height="1.088351" y="-0.044175496" width="1.0892536" x="-0.044626798" id="filter4350" style="color-interpolation-filters:sRGB">
+      <feGaussianBlur id="feGaussianBlur4352" stdDeviation="8.7848425"/>
+    </filter>
+    <linearGradient y2="300.73987" x2="236.61363" y1="-161.8512" x1="-122.20192" spreadMethod="pad" gradientTransform="matrix(0.873858, 0, 0, 0.828181, 867.051392, 287.08847)" gradientUnits="userSpaceOnUse" id="linearGradient4245" xlink:href="#linearGradient4284"/>
+    <linearGradient id="linearGradient4284">
+      <stop offset="0" style="stop-color:#8381c5;stop-opacity:1" id="stop4286"/>
+      <stop id="stop4290" style="stop-color:#7e55b3;stop-opacity:0.99607843" offset="0.5664"/>
+      <stop offset="1" style="stop-color:#a52ecb;stop-opacity:0.99215686" id="stop4288"/>
+    </linearGradient>
+    <linearGradient y2="66.018341" x2="173.94518" y1="396.6066" x1="447.80933" gradientTransform="matrix(0.98685, 0, 0, 0.98685, 624.078186, 39.332111)" gradientUnits="userSpaceOnUse" id="linearGradient4247" xlink:href="#linearGradient4292"/>
+    <linearGradient id="linearGradient4292">
+      <stop id="stop4294" offset="0" style="stop-color:#411f5d;stop-opacity:1"/>
+      <stop id="stop4296" offset="1" style="stop-color:#5b2a85;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, -625.816101, -47.654423)">
+    <title>emacs</title>
+    <path style="opacity:0.40500004;fill:#211f46;fill-opacity:0.99607843;stroke:#0a0b1b;stroke-width:8.53333378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4350)" id="path4233" d="M 1109.282 293.702 C 1109.282 423.763 1004.913 529.199 876.167 529.199 C 747.421 529.199 643.052 423.763 643.052 293.702 C 643.052 163.64 747.421 58.205 876.167 58.205 C 1004.913 58.205 1109.282 163.64 1109.282 293.702 Z"/>
+    <path d="M 1109.282 293.702 C 1109.282 423.763 1004.913 529.198 876.167 529.198 C 747.421 529.198 643.052 423.763 643.052 293.702 C 643.052 163.64 747.421 58.205 876.167 58.205 C 1004.913 58.205 1109.282 163.64 1109.282 293.702 Z" id="path4235" style="opacity:1;fill:url(#linearGradient4245);fill-opacity:1;stroke:url(#linearGradient4247);stroke-width:13.33816814;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  </g>
+</svg>
