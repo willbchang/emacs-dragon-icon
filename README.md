@@ -7,12 +7,19 @@
 # Emacs Dragon
 A new Emacs icon combines Emacs logo's background and the dragon in [Emac-China](https://emacs-china.org) logo.
 
-**Pull requests are welcome! The details in the logo needs to be improved**, because I'm not a UI designer and not familiar with svg editing at all.
+Download this repo to get all the things. 
+
+**Pull requests are welcome to improve the details of the logo. I'm not a desginer, please do it by yourself instead of asking me to design something else on this logo, I did my best to get the current version.**
 
 To build png, icns, ico from svg via iconset.sh, you need
 
 ```sh
 brew install librsvg ffmpeg
+```
+
+then
+```sh
+sh iconset.sh
 ```
 
 ## Credits
