@@ -7,11 +7,10 @@
 # Emacs Dragon
 A new Emacs icon combines Emacs logo's background and the dragon in [Emac-China](https://emacs-china.org) logo.
 
-Download this repo to get all the things. 
+Download this repo to get all the sizes and icon types. 
 
-**Pull requests are welcome to improve the details of the logo. I'm not a desginer, please do it by yourself instead of asking me to design something else on this logo, I did my best to get the current version.**
-
-To build png, icns, ico from svg via iconset.sh, you need
+## MacOS
+To build png, icns, ico from emacs-dragon.svg via iconset.sh after changing it, you need:
 
 ```sh
 brew install librsvg ffmpeg
@@ -26,6 +25,7 @@ sh iconset.sh
 - [Boxy SVG](https://boxy-svg.com/app) is used to edit the svg files in materials.
 - [Emacs logo](https://github.com/emacs-mirror/emacs/blob/master/etc/images/icons/hicolor/scalable/apps/emacs.svg)
 - [Emacs China Logo](https://raw.githubusercontent.com/emacs-china/emacs-china.github.io/master/assets/dragon2.svg)
+- Details are improved by YangYang.
 
 ## LICENSE
 GPL-3
