@@ -5,9 +5,9 @@
 
 
 # Emacs Dragon
-A new Emacs icon combines Emacs logo's background and the dragon in [Emac-China](https://emacs-china.org) logo.
+An Emacs icon combines Emacs logo's background and the dragon in [Emacs-China](https://emacs-china.org) logo.
 
-Download this repo to get all the sizes and icon types. 
+**Download this repo to get all the icon sizes and types.**
 
 ## MacOS
 To build png, icns, ico from emacs-dragon.svg via iconset.sh after changing it, you need:
