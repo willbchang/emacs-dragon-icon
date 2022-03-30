@@ -1,6 +1,6 @@
 <p align="center">
   <img src="AppIcons/emacs-dragon-icon.iconset/icon_512x512.png" alt="Emacs Dragon Logo" height="256px"><br>
-  <sub>神威天龙，紫气东来，旭日东升。</sub>
+  <sub>飞龙在天，紫气东来，旭日东升，君临天下。</sub>
 </p>
 
 
@@ -9,7 +9,19 @@ An Emacs icon combines Emacs logo's background and the dragon in [Emacs-China](h
 
 **Download this repo to get all the icon sizes and types.**
 
-## MacOS
+## History Version
+Click image to view:
+
+<a href="https://github.com/willbchang/emacs-dragon-icon/tree/aafc6370e1dc0e59b212afa33ba1fe1916d692be">
+    <img src="https://raw.githubusercontent.com/willbchang/emacs-dragon-icon/aafc6370e1dc0e59b212afa33ba1fe1916d692be/AppIcons/emacs-dragon-icon.iconset/icon_512x512.png" alt="Emacs Dragon Logo" height="128px">
+</a>
+
+<a href="https://github.com/willbchang/emacs-dragon-icon/tree/d2f307ad3346cfe0d6c62f813bc6123778081ab4">
+    <img src="https://raw.githubusercontent.com/willbchang/emacs-dragon-icon/d2f307ad3346cfe0d6c62f813bc6123778081ab4/AppIcons/emacs-dragon-icon.iconset/icon_512x512.png" alt="Emacs Dragon Logo" height="128px">
+</a>
+
+## Build
+### MacOS
 To build png, icns, ico from emacs-dragon.svg via iconset.sh after changing it, you need:
 
 ```sh
